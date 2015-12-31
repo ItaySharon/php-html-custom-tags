@@ -1,4 +1,4 @@
-# php-html-custom-tags
+# tagns
 using php you can create your own html custom tags
 ##what is tagns?
 tagns is tag namespace
